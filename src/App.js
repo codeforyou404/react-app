@@ -8,7 +8,7 @@ import SideBar from './component/sidebar/SideBar';
 function App() {
   
   return (
-    
+  
     <Provider  >
       <div className="main-container">
       <Header />
