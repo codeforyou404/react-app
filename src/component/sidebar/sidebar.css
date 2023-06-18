@@ -1,0 +1,13 @@
+.side-bar-container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    height: calc(100vh - 60px);
+  
+    background-color:  slateblue;
+    border-right: 1px solid grey;
+    border-top: 1px solid black;
+  
+    position: sticky;
+    top: 60px;
+  }
